@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hello-ci" />
+        <module name="meet-a-stranger" />
+        <module name="meet-autocode" />
+        <module name="electronic-watch" />
+        <module name="my-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="electronic-watch" target="11" />
+      <module name="hello-ci" target="1.8" />
+      <module name="meet-a-stranger" target="11" />
+      <module name="meet-autocode" target="11" />
+      <module name="my-app" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

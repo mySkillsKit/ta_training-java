@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/electronic-watch/electronic-watch.iml" filepath="$PROJECT_DIR$/electronic-watch/electronic-watch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-ci/hello-ci.iml" filepath="$PROJECT_DIR$/hello-ci/hello-ci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meet-a-stranger/meet-a-stranger.iml" filepath="$PROJECT_DIR$/meet-a-stranger/meet-a-stranger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meet-autocode/meet-autocode.iml" filepath="$PROJECT_DIR$/meet-autocode/meet-autocode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-app/my-app.iml" filepath="$PROJECT_DIR$/my-app/my-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ta_training-java.iml" filepath="$PROJECT_DIR$/.idea/ta_training-java.iml" />
+    </modules>
+  </component>
+</project>
